@@ -1,0 +1,16 @@
+h1 {
+    color: #37cedf;
+}
+
+body {
+    background-color: beige;
+}
+
+ul {
+    background-color: rgb(194, 236, 54);
+}
+
+li {
+    color: #dc1eaf;
+    font-family: 'Courier New', Courier, monospace;
+}

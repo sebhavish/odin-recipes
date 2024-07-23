@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(255, 128, 0);
+    text-align: center;
+}
+
+body {
+    background-color: bisque;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: 512;
+}
